@@ -1,3 +1,4 @@
+#Создано на уроке.
 def my_supersunction():
     print("Много принтов")
 
