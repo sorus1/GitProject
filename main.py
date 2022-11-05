@@ -1,3 +1,4 @@
+#Создано на уроке.
 def my_supersunction():
     print("Много принтов")
 
@@ -11,3 +12,4 @@ def main():
 if __name__ == '__main__':
     main()
 
+print(1)
